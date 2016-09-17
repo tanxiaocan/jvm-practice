@@ -1,0 +1,4 @@
+rootProject.name = 'jvm-practice'
+include 'jvm-practice-chap2'
+include 'jvm-practice-chap6'
+include 'jvm-practice-chap7'
